@@ -18,14 +18,7 @@ def third():
 def forth(id):
     return f'bu nasıl birşeymiş yahu! {id}'
 
-
-
-
-
-
-
-
-
+    
 
 
 if __name__ == '__main__':
